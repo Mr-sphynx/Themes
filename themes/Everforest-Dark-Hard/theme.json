@@ -1,22 +1,22 @@
 {
     "colors": {
-        "AlternateBase": "#272e33",
-        "Base": "#1e2326",
+        "AlternateBase": "#fb6e2c",
+        "Base": "#fb4244",
         "BrightText": "#d3c6aa",
-        "Button": "#3c4841",
+        "Button": "#fb6e2c",
         "ButtonText": "#d3c6aa",
         "Highlight": "#3c4841",
         "HighlightedText": "#9da9a0",
-        "Link": "#7dbbb3",
+        "Link": "#FF4241",
         "Text": "#d3c6aa",
-        "ToolTipBase": "#a7c080",
+        "ToolTipBase": "#FF4241",
         "ToolTipText": "#a7c080",
-        "Window": "#272e33",
+        "Window": "#FFA300",
         "WindowText": "#d3c6aa",
         "fadeAmount": 0.5,
-        "fadeColor": "#3c4841"
+        "fadeColor": "#FF4241"
     },
-    "name": "Everforest Dark Hard",
+    "name": "flame princess theme",
     "qssFilePath": "themeStyle.css",
     "widgets": "Fusion"
 }
